@@ -1,0 +1,11 @@
+source,monitor_file_output,monitor_number,monitor_type,monitor_mode,expected_target_label,final_z_um,final_value,min_value,max_value,status,interpretation
+launch_mask_monitor_probe,lp21_mask_mon.mon,1,FILE_POWER,0,,6130.0,7.711343e-11,1.334573e-12,1.440249e-09,diagnostic,diagnostic_file_response_not_modal_purity
+launch_mask_monitor_probe,lp21_mask_mon.mon,2,FILE_POWER,0,,6130.0,0.5415805,5.457833e-06,0.5415805,diagnostic,diagnostic_file_response_not_modal_purity
+launch_mask_monitor_probe,lp21_mask_mon.mon,3,FILE_POWER,0,,6130.0,0.01462502,3.794725e-07,0.01462502,diagnostic,diagnostic_file_response_not_modal_purity
+launch_mask_monitor_probe,lp21_mask_mon.mon,4,FILE_POWER,0,,6130.0,1.753549e-09,1.14339e-10,2.049788e-08,diagnostic,diagnostic_file_response_not_modal_purity
+launch_mask_monitor_probe,lp21_mask_mon.mon,5,TOTAL_POWER,0,,6130.0,0.9999002,0.9998971,1.000001,pass,power_closure_near_unity
+wgmode_project_probe,lp21_wgmode_project_probe.mon,1,TOTAL_POWER,0,,6130.0,0.9999002,0.9998971,1.000001,pass,power_closure_near_unity
+wgmode_project_probe,lp21_wgmode_project_probe.mon,2,WGMODE_POWER,2,LP21_cos_power,6130.0,1.097143e-12,1.634551e-34,2.984902e-12,diagnostic,diagnostic_wgmode_response_not_formal_purity
+wgmode_project_probe,lp21_wgmode_project_probe.mon,3,WGMODE_PHASE,2,LP21_cos_phase,6130.0,359.7182,0.7075232,359.9593,diagnostic,diagnostic_wgmode_response_not_formal_purity
+wgmode_project_probe,lp21_wgmode_project_probe.mon,4,WGMODE_POWER,-2,LP21_sin_power,6130.0,0.6119159,0.1211973,0.6417487,diagnostic,diagnostic_wgmode_response_not_formal_purity
+wgmode_project_probe,lp21_wgmode_project_probe.mon,5,WGMODE_PHASE,-2,LP21_sin_phase,6130.0,31.56352,31.56352,180.0103,diagnostic,diagnostic_wgmode_response_not_formal_purity

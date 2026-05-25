@@ -1,0 +1,11 @@
+metric,value,threshold,status,source_field,note,review_authority,vendor_certified
+eta,0.5528232893947512,>= 0.35,pass,eta,LP21 target-group coupling,codex_local_evidence_review,False
+rho,0.9925367812367074,>= 0.90,pass,rho,target-group purity,codex_local_evidence_review,False
+ER_dB,21.23820437804853,>= 15 dB,pass,ER_dB,target/offtarget extinction,codex_local_evidence_review,False
+captured_power,0.5569801541318496,reported,reported,captured_power,power in reviewed modal basis,codex_local_evidence_review,False
+offtarget_power,0.00415686473709842,reported,reported,offtarget_power,non-target captured power,codex_local_evidence_review,False
+basis_condition,19.104471623813442,<= 25,pass,basis_condition,reviewed basis numerical conditioning,codex_local_evidence_review,False
+target_group_count,4,== 4,pass,target_group_count,LP21 group contains four reviewed basis modes,codex_local_evidence_review,False
+basis_rank,12,reported,reported,basis_rank,reviewed modal basis rank,codex_local_evidence_review,False
+primary_formula_lp21_rich,4/4,4/4 primary formulas LP21-rich,pass,primary_formula_lp21_rich_count,full-vector convention-family sensitivity evidence,codex_local_evidence_review,False
+vendor_certified,False,False for current claim boundary,pass,vendor_certified,"local Codex-reviewed evidence, not vendor-certified semantics",codex_local_evidence_review,False
