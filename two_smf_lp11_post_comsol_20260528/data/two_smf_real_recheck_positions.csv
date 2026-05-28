@@ -1,0 +1,5 @@
+fallback_role,spatial_smf_index,x_um,y_um,x_m,y_m
+primary_highest_eta,0,-20.9272,-3.69002,-2.09272e-05,-3.69002e-06
+primary_highest_eta,1,20.9272,3.69002,2.09272e-05,3.69002e-06
+orientation_sanity,0,-1.14811e-15,-18.75,-1.14811e-21,-1.875e-05
+orientation_sanity,1,1.14811e-15,18.75,1.14811e-21,1.875e-05

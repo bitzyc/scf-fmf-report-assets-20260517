@@ -1,0 +1,114 @@
+{
+  "status": "local_public_asset_package_prepared",
+  "asset_dir": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets",
+  "figure_count": 14,
+  "public_repo": "bitzyc/scf-fmf-report-assets-20260517",
+  "public_repo_subdir": "two_smf_lp11_post_comsol_20260528",
+  "figures": [
+    {
+      "figure_id": "two_smf_post_comsol_evidence_chain",
+      "filename": "two_smf_post_comsol_evidence_chain.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\two_smf_post_comsol_evidence_chain.png",
+      "caption": "Evidence-chain overview with pass/fail/deferred status for requirements, Lumerical EME, COMSOL FDE, and deferred stages.",
+      "requirement": "mandatory overview evidence chain"
+    },
+    {
+      "figure_id": "two_smf_orientation_sanity_summary",
+      "filename": "two_smf_orientation_sanity_summary.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\two_smf_orientation_sanity_summary.png",
+      "caption": "Dedicated orientation-sanity geometry/control/metric figure; orientation sanity is retained but eta remains below 0.5.",
+      "requirement": "orientation sanity data and figure"
+    },
+    {
+      "figure_id": "two_smf_comsol_lumerical_metrics_summary",
+      "filename": "two_smf_comsol_lumerical_metrics_summary.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\two_smf_comsol_lumerical_metrics_summary.png",
+      "caption": "COMSOL-vs-Lumerical metric summary for primary and orientation-sanity rows.",
+      "requirement": "solver comparison / COMSOL cross-check"
+    },
+    {
+      "figure_id": "two_smf_fallback_geometry",
+      "filename": "two_smf_fallback_geometry.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\two_smf_fallback_geometry.png",
+      "caption": "Structure top view for the pitch-constrained primary and orientation-sanity candidates.",
+      "requirement": "existing Lumerical/COMSOL report figure"
+    },
+    {
+      "figure_id": "two_smf_fallback_controls",
+      "filename": "two_smf_fallback_controls.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\two_smf_fallback_controls.png",
+      "caption": "Frozen Jones-like control amplitudes and phases for primary and orientation-sanity rows.",
+      "requirement": "existing Lumerical/COMSOL report figure"
+    },
+    {
+      "figure_id": "two_smf_fallback_candidate_comparison",
+      "filename": "two_smf_fallback_candidate_comparison.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\two_smf_fallback_candidate_comparison.png",
+      "caption": "Fallback candidate comparison under the pitch>=30 um constraint.",
+      "requirement": "existing Lumerical/COMSOL report figure"
+    },
+    {
+      "figure_id": "two_smf_fresh_eme_eta",
+      "filename": "two_smf_fresh_eme_eta.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\two_smf_fresh_eme_eta.png",
+      "caption": "Fresh Lumerical EME butt replay eta for primary and orientation-sanity rows.",
+      "requirement": "existing Lumerical/COMSOL report figure"
+    },
+    {
+      "figure_id": "two_smf_fresh_eme_energy",
+      "filename": "two_smf_fresh_eme_energy.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\two_smf_fresh_eme_energy.png",
+      "caption": "Fresh Lumerical EME energy ledger showing residual/unretained power remains dominant.",
+      "requirement": "existing Lumerical/COMSOL report figure"
+    },
+    {
+      "figure_id": "two_smf_offset_eme_eta",
+      "filename": "two_smf_offset_eme_eta.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\two_smf_offset_eme_eta.png",
+      "caption": "Offset Lumerical EME replay eta under +/-0.5, +/-1, and +/-2 um interface offsets.",
+      "requirement": "existing Lumerical/COMSOL report figure"
+    },
+    {
+      "figure_id": "two_smf_offset_eme_energy",
+      "filename": "two_smf_offset_eme_energy.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\two_smf_offset_eme_energy.png",
+      "caption": "Offset Lumerical EME energy ledger; offsets do not recover eta.",
+      "requirement": "existing Lumerical/COMSOL report figure"
+    },
+    {
+      "figure_id": "smf_count_eta_by_count",
+      "filename": "smf_count_eta_by_count.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\smf_count_eta_by_count.png",
+      "caption": "SMF-count eta trend; only 8-SMF passes the strict-orientation eta gate in this fixed-basis screen.",
+      "requirement": "existing Lumerical/COMSOL report figure"
+    },
+    {
+      "figure_id": "smf_count_eta_energy_summary",
+      "filename": "smf_count_eta_energy_summary.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\smf_count_eta_energy_summary.png",
+      "caption": "SMF-count eta and energy summary supporting launch-subspace/core-count limitation.",
+      "requirement": "existing Lumerical/COMSOL report figure"
+    },
+    {
+      "figure_id": "smf_count_best_ring_layouts",
+      "filename": "smf_count_best_ring_layouts.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\smf_count_best_ring_layouts.png",
+      "caption": "Best ring layouts by SMF count for the fixed-basis audit.",
+      "requirement": "existing Lumerical/COMSOL report figure"
+    },
+    {
+      "figure_id": "two_smf_comsol_eta_comparison",
+      "filename": "two_smf_comsol_eta_comparison.png",
+      "local_path": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\reports\\two_smf_lp11_post_comsol_public_assets\\figures\\two_smf_comsol_eta_comparison.png",
+      "caption": "COMSOL-vs-Lumerical eta comparison; agreement passes but eta gate fails.",
+      "requirement": "existing Lumerical/COMSOL report figure"
+    }
+  ],
+  "data_sources": {
+    "positions": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\lumerical_eme_two_smf_real_recheck_handoff\\pitch_ge_30_butt\\sweeps\\two_smf_real_recheck_positions.csv",
+    "controls": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\lumerical_eme_two_smf_real_recheck_handoff\\pitch_ge_30_butt\\sweeps\\two_smf_real_recheck_controls.csv",
+    "cross_rows": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\comsol_cross_check\\two_smf_pitch_ge_30\\sweeps\\two_smf_comsol_cross_check_rows.csv",
+    "fresh_rows": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\lumerical_eme_two_smf_real_recheck_record\\pitch_ge_30_butt_fresh_smatrix\\sweeps\\two_smf_real_recheck_record_rows.csv",
+    "by_count": "C:\\Users\\17258\\OneDrive - University of Southampton\\Codex\u2014MCF mode\\Demo for user\\2026-05-26_two_core_lp11_direct_launcher_demo\\results\\lumerical_eme_smf_count_feasibility\\butt_real\\sweeps\\smf_count_eme_feasibility_by_count.csv"
+  }
+}

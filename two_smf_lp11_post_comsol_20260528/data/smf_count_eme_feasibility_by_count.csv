@@ -1,0 +1,5 @@
+smf_count,row_count,eta_gate_pass_count,max_group_eta,max_group_radius_um,max_group_rotation_deg,max_orientation_gate_eta,max_orientation_gate_radius_um,max_orientation_gate_rotation_deg,max_orientation_gate_pass,max_orientation_gate_residual
+2,52,0,0.30661323307921245,9.0,90.0,0.2847552799074697,9.0,90.0,True,0.715244716003061
+4,52,0,0.4395885520603271,9.0,45.0,0.40081695503458725,9.0,45.0,True,0.5991830403534799
+6,52,0,0.5165844916628702,11.0,30.0,0.4747308462451221,21.0,15.0,True,0.525269148418885
+8,52,5,0.7535993051819312,19.0,22.5,0.6329909555596789,19.0,22.5,True,0.36700903741315716
